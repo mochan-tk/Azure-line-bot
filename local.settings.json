@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "LINE_CHANNEL_SECRET": "<ローカルでう動かす場合はココにシークレットキーを入力>",
+    "LINE_CHANNEL_ACCESS_TOKEN": "<ローカルでう動かす場合はココにアクセストークンを入力>"
+  }
+}
